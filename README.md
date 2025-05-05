@@ -128,7 +128,7 @@ The model uses a pre-trained **YOLOv4-Tiny** network for detecting people. The a
 * **Max-Pooling Layers**: For down-sampling.
 * **Dense Layers**: For classification and regression.
 * **Softmax Output Layer**: For multi-class classification, detecting 'person' class.
-
+![YOLOv4-Tiny Architecture](https://raw.githubusercontent.com/amramgad8/Person-Tracking/8ef809d81f424eb34d4f1c9c3ff1b9110fdc2c99/The-architecture-of-YOLOv4-tiny-Network.png)
 ---
 
 ## 📚 Dataset
