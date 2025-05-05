@@ -28,8 +28,8 @@ This project uses YOLOv4-Tiny to detect and track people in real-time from a vid
 
 The concept can be applied in cafes, libraries, and other public spaces, allowing businesses and institutions to track the number of visitors in real-time. This can help manage space occupancy, analyze visitor flow, or even optimize staff allocation based on the number of people present.
 
-![Person Tracking Demo](![image](https://github.com/user-attachments/assets/4faa68c5-48de-4a54-8749-75f2d02e8de1)
-)
+![image alt](![Person Tracking Demo](![image](https://github.com/user-attachments/assets/4faa68c5-48de-4a54-8749-75f2d02e8de1)
+))
 
 - **Real-time detection**: Tracks people as they appear and disappear.
 - **ID tracking**: Each person is assigned a unique ID and tracked across frames.
