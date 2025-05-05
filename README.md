@@ -1,6 +1,3 @@
-إليك النص كاملاً في شكل قابل للنسخ:
-
-````markdown
 # Person Tracking with YOLOv4-Tiny 🧑‍🤝‍🧑
 
 A real-time person tracking system using YOLOv4-Tiny for object detection. This project helps to track individuals through video streams, providing information on their entry, exit, and time spent in the frame. The application is designed to be simple and efficient for real-time video analysis.
@@ -59,7 +56,8 @@ This project uses YOLOv4-Tiny to detect and track people in real-time from a vid
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/person-tracking-yolov4-tiny.git
-````
+
+
 
 2. **Navigate to the project directory:**
 
@@ -152,11 +150,5 @@ The model is efficient for real-time processing, capable of handling multiple ob
 
 ---
 
-**License**: MIT License
 
-```
-
----
-
-يمكنك الآن نسخ هذا النص بشكل كامل واستخدامه مباشرة في مستودع GitHub الخاص بك.
 ```
