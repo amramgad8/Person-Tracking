@@ -2,6 +2,8 @@
 
 A real-time person tracking system using YOLOv4-Tiny for object detection. This project helps to track individuals through video streams, providing information on their entry, exit, and time spent in the frame. The application is designed to be simple and efficient for real-time video analysis.
 
+This idea can be extended to cafes, libraries, and other public spaces to track the number of people present at any given time. It can be used for crowd management, ensuring compliance with capacity limits, or simply for analyzing the flow of visitors.
+
 **Technologies Used**: Python, OpenCV, YOLO, NumPy
 
 ---
@@ -24,9 +26,14 @@ A real-time person tracking system using YOLOv4-Tiny for object detection. This 
 
 This project uses YOLOv4-Tiny to detect and track people in real-time from a video feed. It assigns unique IDs to each detected individual and tracks their movements, including entry and exit from the frame, as well as their total time spent within the view. The system also includes notifications (audio alerts) when individuals enter or exit.
 
+The concept can be applied in cafes, libraries, and other public spaces, allowing businesses and institutions to track the number of visitors in real-time. This can help manage space occupancy, analyze visitor flow, or even optimize staff allocation based on the number of people present.
+
+![Person Tracking Demo](assets/person_tracking_demo.png)
+
 - **Real-time detection**: Tracks people as they appear and disappear.
 - **ID tracking**: Each person is assigned a unique ID and tracked across frames.
 - **Sound notifications**: Alerts are triggered when a person enters or exits the frame.
+- **Applications in cafes and libraries**: Manage visitor flow, ensure capacity limits, or analyze traffic patterns.
 
 ---
 
@@ -52,6 +59,11 @@ This project uses YOLOv4-Tiny to detect and track people in real-time from a vid
 - **NumPy** (for numerical operations)
 
 ### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/person-tracking-yolov4-tiny.git
+
 
 1. **Clone the repository:**
    ```bash
